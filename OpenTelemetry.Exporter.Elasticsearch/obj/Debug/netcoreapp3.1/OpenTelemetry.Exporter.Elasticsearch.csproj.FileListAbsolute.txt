@@ -1,9 +1,0 @@
-C:\Users\yongma\source\repos\Demo.OpenTelemetry\OpenTelemetry.Exporter.Elasticsearch\bin\Debug\netcoreapp3.1\OpenTelemetry.Exporter.Elasticsearch.deps.json
-C:\Users\yongma\source\repos\Demo.OpenTelemetry\OpenTelemetry.Exporter.Elasticsearch\bin\Debug\netcoreapp3.1\OpenTelemetry.Exporter.Elasticsearch.dll
-C:\Users\yongma\source\repos\Demo.OpenTelemetry\OpenTelemetry.Exporter.Elasticsearch\bin\Debug\netcoreapp3.1\OpenTelemetry.Exporter.Elasticsearch.pdb
-C:\Users\yongma\source\repos\Demo.OpenTelemetry\OpenTelemetry.Exporter.Elasticsearch\obj\Debug\netcoreapp3.1\OpenTelemetry.Exporter.Elasticsearch.csprojAssemblyReference.cache
-C:\Users\yongma\source\repos\Demo.OpenTelemetry\OpenTelemetry.Exporter.Elasticsearch\obj\Debug\netcoreapp3.1\OpenTelemetry.Exporter.Elasticsearch.AssemblyInfoInputs.cache
-C:\Users\yongma\source\repos\Demo.OpenTelemetry\OpenTelemetry.Exporter.Elasticsearch\obj\Debug\netcoreapp3.1\OpenTelemetry.Exporter.Elasticsearch.AssemblyInfo.cs
-C:\Users\yongma\source\repos\Demo.OpenTelemetry\OpenTelemetry.Exporter.Elasticsearch\obj\Debug\netcoreapp3.1\OpenTelemetry.Exporter.Elasticsearch.csproj.CoreCompileInputs.cache
-C:\Users\yongma\source\repos\Demo.OpenTelemetry\OpenTelemetry.Exporter.Elasticsearch\obj\Debug\netcoreapp3.1\OpenTelemetry.Exporter.Elasticsearch.dll
-C:\Users\yongma\source\repos\Demo.OpenTelemetry\OpenTelemetry.Exporter.Elasticsearch\obj\Debug\netcoreapp3.1\OpenTelemetry.Exporter.Elasticsearch.pdb
