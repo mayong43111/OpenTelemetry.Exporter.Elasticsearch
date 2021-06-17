@@ -11,16 +11,14 @@ namespace OpenTelemetry.Trace
         /// <param name="builder"><see cref="TracerProviderBuilder"/> options to use.</param>
         /// <param name="configure">Exporter configuration options.</param>
         /// <returns>The instance of <see cref="TracerProviderBuilder"/> to chain the calls.</returns>
-        public static TracerProviderBuilder AddElasticsearchExporter(this TracerProviderBuilder builder, Action<ElasticsearchExporterOptions> configure = null)
+        public static TracerProviderBuilder AddElasticsearchExporter(this TracerProviderBuilder builder, ElasticsearchExporterOptions configure = null)
         {
             if (builder == null)
             {
                 throw new ArgumentNullException(nameof(builder));
             }
 
-            var options = new ElasticsearchExporterOptions();
-            configure?.Invoke(options);
-
+            var options = configure ?? new ElasticsearchExporterOptions();
             var exporter = new ElasticsearchActivityExporter(options);
 
             if (options.ExportProcessorType == ExportProcessorType.Simple)
